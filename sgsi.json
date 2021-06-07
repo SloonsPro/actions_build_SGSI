@@ -1,13 +1,13 @@
 {
-  "rom_url": "http://download.h2os.com/OnePlus7Pro/MP/OnePlus7ProHydrogen_21.H.37_OTA_0370_all_2104102202_bc9d205948cc41ff.zip",
-  "rom_name": "OnePlus7ProHydrogen_21.H.37_OTA_0370_all_2104102202_bc9d205948cc41ff.zip",
+  "rom_url": "https://bigota.d.miui.com/21.6.2/miui_UMI_21.6.2_7bfaa1be81_11.0.zip",
+  "rom_name": "miui_UMI_21.6.2_7bfaa1be81_11.0.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "h2os",
+  "rom_type": "miui",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
-  "upload_transfer": false,
+  "upload_transfer": true,
   "upload_release": true,
   "use_7zip": true,
   "use_zip": false
